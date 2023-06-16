@@ -6,14 +6,16 @@
 
 #frmMenu {
     width: 400px;
-    height: 200px;
+    height: 100px;
 }
 
 #totalPrice {
     width: 400px;
     height: 190px;
-    margin: 0 auto;
-    float: right;
+    margin: 200px;
+    
+    
+    
 }
 
 .left {
@@ -40,6 +42,8 @@
     margin: 0px auto;
     width: 400px;
     height: 200px;
+    
+    
 }
 
 #btnOrder {
